@@ -28,7 +28,7 @@ h1
   border: 2px solid black;
 }
 
-#yo
+.yo
 {
   margin: 20px;
   padding-top: 20px;
@@ -44,7 +44,7 @@ h1
   text-align: center;
 }
 
-#git
+.git
 {
   width: 150px;
   position: relative;
@@ -53,7 +53,7 @@ h1
   padding-top: 100px;
 }
 
-#link
+.link
 {
   width: 150px;
   position: relative;
