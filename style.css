@@ -1,0 +1,31 @@
+.page
+{
+  background-color: #8912BB;
+  position: absolute;
+  width:2545px;
+  height:1237px;
+}
+
+h1
+{
+  font-family: Times;
+  color: white;
+  font-size: 124px;
+  text-align: center;
+}
+
+.md
+{
+  background-color: white;
+  width: 600px;
+  height: 700px;
+  position: relative;
+  left: 38%;
+  border-radius: 50px;
+}
+
+#yo
+{
+  margin: 50px;
+  padding-top: 50px;
+}
