@@ -1,9 +1,11 @@
-.page
+html
 {
   background-color: #8912BB;
-  position: absolute;
-  width:2545px;
-  height:1237px;
+}
+
+.page
+{
+  position: relative;
 }
 
 h1
@@ -12,20 +14,50 @@ h1
   color: white;
   font-size: 124px;
   text-align: center;
+  margin-top: -50px;
 }
 
 .md
 {
   background-color: white;
   width: 600px;
-  height: 700px;
+  height: 350px;
   position: relative;
   left: 38%;
   border-radius: 50px;
+  border: 2px solid black;
 }
 
 #yo
 {
-  margin: 50px;
-  padding-top: 50px;
+  margin: 20px;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.hi
+{
+  color: white;
+  font-family: times;
+  font-size: 72px;
+  text-align: center;
+}
+
+#git
+{
+  width: 150px;
+  position: relative;
+  left: 42%;
+  padding-left: 25px;
+  padding-top: 100px;
+}
+
+#link
+{
+  width: 150px;
+  position: relative;
+  left: 42%;
+  padding-left: 45px;
+  padding-top: 100px;
 }
