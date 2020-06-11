@@ -1,11 +1,14 @@
 html
 {
   background-color: #8912BB;
+  position: absolute;
+  min-width: 100%;
 }
 
 .page
 {
   width: 100%;
+  padding-top: 7%;
 }
 
 h1
@@ -19,12 +22,14 @@ h1
 
 .md
 {
+  position: relative;
   background-color: white;
   width: 600px;
   height: 350px;
   margin-left: 620px;
   border-radius: 50px;
   border: 2px solid black;
+  margin: auto;
 }
 
 .yo
@@ -45,13 +50,20 @@ h1
 
 .git
 {
+  position: relative;
   width: 150px;
-  margin-left: 700px;
-  margin-top: 50px;
+  margin: auto;
 }
 
 .link
 {
+  position: relative;
   width: 150px;
-  margin-left: 100px;
+  margin: auto;
+}
+
+.links{
+  max-width: 304px;
+  margin: auto;
+  padding: 50px;
 }
